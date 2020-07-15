@@ -1,4 +1,6 @@
 ## assignment 1 
+- you need to write in terminal  : `npm install` and `npm run live`
+
 use this website api :  `https://jsonplaceholder.typicode.com/photos`
 to get the photos using `XMLHttpRequest`
  -  add click Event listener to the button with id `photosBtn` and 
